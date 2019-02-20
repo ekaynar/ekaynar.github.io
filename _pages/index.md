@@ -6,7 +6,7 @@ narrow: true
 
 {% include components/intro.md %}
 
-### Research Interest
+### Research Interests
 
 My research interests lie broadly in cloud computing, storage systems, distributed systems and large
 scale data analytics systems. Currently, my research is focused on designing and building cache architectures for big data analytics in datacenters, and evaluating the performance characteristic of coded
