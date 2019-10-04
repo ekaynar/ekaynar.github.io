@@ -1,5 +1,2 @@
-I am a PhD candidate in the Department of Computer Science at Boston University(BU).
-
-At BU, I am working with <a href="http://okrieg.github.io/">Prof. Orran Krieger</a>.
-I'm a member of the Systems Research Group at BU and associated with <a target="_blank" href="https://massopen.cloud/">Mass Open Cloud (MOC)</a>.  
+I am a PhD candidate in the Department of Computer Science at Boston University under the advisement of <a href="http://okrieg.github.io/">Prof. Orran Krieger</a>, <a href="http://people.csail.mit.edu/rudolph/">Prof. Larry Rudolph</a> and <a href="http://www.ccs.neu.edu/home/pjd/index.html"> Prof. Peter Desnoyers </a>. I'm a member of the Systems Research Group at BU and associated with <a target="_blank" href="https://massopen.cloud/">Mass Open Cloud (MOC)</a>.  
 
