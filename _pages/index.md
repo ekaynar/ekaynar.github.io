@@ -49,8 +49,7 @@ which may improve the performance of redundancy solutions.</li>
 <li>
 <b>D3N: A multi-level cache for improving big-data applications’ performance in datacenters with imbalanced networks </b>
 <br/> 
-E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC ’18 - Poster </i> <br />
-<a target="_blank" href="papers/d3n_poster.pdf">[Poster]</a>
+E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC ’18 - <a target="_blank" href="papers/d3n_poster.pdf">[Poster]</a> </i>
 </li>
 <br />
 
@@ -58,20 +57,20 @@ E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasi
 <li>
 <b>M2: Malleable Metal as a Service </b><br />
 Apoorve Mohan, Ata Turk, Ravi S Gudimetla, Sahil Tikale, Jason Hennesey, E. Ugur Kaynar,
-Gene Cooperman, Peter Desnoyers, Orran Krieger, <i>    IEEE IC2E 2018 </i><br />
+Gene Cooperman, Peter Desnoyers, Orran Krieger, <i>    IEEE IC2E 2018 </i>
 <a target="_blank" href="papers/m2.pdf">[PDF]</a>
 </li>
 <br />
 
 <li><b>An Experiment on Bare-Metal BigData Provisioning</b> <br />
-Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, Peter Desnoyers, Orran Krieger, <i>USENIX HotCloud 2016</i><br />
+Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, Peter Desnoyers, Orran Krieger, <i>USENIX HotCloud 2016</i>
 <a target="_blank" href="papers/hotcloud16.pdf">[PDF]</a>
 </li>
 <br />
 
 
    <li><b> HIL: Designing an Exokernel for the Data Center </b> <br />
-   Jason Hennessey, Sahil Tikale, Ata Turk, Emine Ugur Kaynar, Chris Hill, Peter Desnoyers, Orran Krieger, <i>SoCC 2016</i> <br />
+   Jason Hennessey, Sahil Tikale, Ata Turk, Emine Ugur Kaynar, Chris Hill, Peter Desnoyers, Orran Krieger, <i>SoCC 2016</i> 
    <a target="_blank" href="papers/socc16.pdf">[PDF]</a>
    </li>
 <br />
@@ -79,7 +78,7 @@ Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, P
    <li><b>Performance Analysis of Encryption in Securing the Live Migration of Virtual Machines</b><br />
     Yaohui Hu, Sanket Panhale, TIanlin Li, Emine Ugur Kaynar, Danny Chan, Umesh Deshpande, Ping Yang, Kartik Gopalan
 
-   <i> IEEE CLOUD 2015</i><br />
+   <i> IEEE CLOUD 2015</i>
   <a target="_blank" href="papers/cloud15.pdf">[PDF]</a>
 
    </li>
@@ -94,7 +93,7 @@ Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, P
 		    Ceph Research Intern<br>
 </li>
 <br>
-<li> <b>	Massachusetts Open Cloud, Boston University </b> <br>
+<li> <b>	Mass Open Cloud, Boston </b> <br>
 			May 2015 - Present <br>
 			Research Student <br>
 </li>
