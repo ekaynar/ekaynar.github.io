@@ -88,6 +88,21 @@ Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, P
 </ul>
 </div>
 
+<h3 id="research_experience">Research Experience</h3>
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+<ul>
+   <li> <b>RedHat Inc, Boston </b><br>
+			May 2017 - Present<br>
+		    Ceph Research Intern<br>
+</li>
+<br>
+<li> <b>	Massachusetts Open Cloud, Boston University </b> <br>
+			May 2015 - Present <br>
+			Research Student <br>
+</li>
+</ul>
+</div>
+
 ### Teaching
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <i>Department of Computer Science, Boston University</i>
