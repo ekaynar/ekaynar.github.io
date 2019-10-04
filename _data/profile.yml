@@ -3,8 +3,6 @@
   href: "mailto:ukaynar@bu.edu"
   icon: entypo/mail.svg
 
-
-
 - caption: G. Scholar
   href: https://scholar.google.com/citations?user=EUNjSpgAAAAJ&hl=en
   icon: entypo/icon-google-scholar.svg
@@ -12,3 +10,7 @@
 - caption: GitHub
   href: https://github.com/ekaynar
   icon: entypo/github.svg
+
+- caption: Linkedin
+  href: https://www.linkedin.com/in/emine-ugur-kaynar-010b62128/
+  icon: entypo/linkedin.svg
