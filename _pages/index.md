@@ -7,7 +7,10 @@ narrow: true
 {% include components/intro.md %}
 
 ### Research Interests
-My research focuses on <b>storage systems</b>, <b>cloud computing</b> and <b>big data analytics</b>. Currently, I am working on designing and building cache architectures for object storage systems in datacenters, and exploring the performance characteristic of erasure-coded storage systems.
+My research interests lie broadly in the fields of <b>storage systems</b>, <b>cloud computing</b> and <b>big data analytics</b>. Currently, my research is focused on storage-related topics including <i><b>caching systems</b></i>, <i><b>erasure coding</b></i> and <i><b>distributed storage systems</b></i>. My thesis focus on cache solutions for BigData applications in data centers.
+
+<!--Currently, I am working on designing and building cache architectures for object storage systems in datacenters, and exploring the performance characteristic of erasure-coded storage systems.
+-->
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 </div>
