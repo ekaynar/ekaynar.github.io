@@ -51,6 +51,14 @@ which may improve the performance of redundancy solutions.</li>
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <ul>
 <li>
+<b>D3N: D3N: A multi-layer cache for the rest of us </b>
+<br/> 
+E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA '19 - <a target="_blank" href="papers/ekaynar_bigdata19.pdf"></a> </i>
+</li>
+<br />
+
+
+<li>
 <b>D3N: A multi-level cache for improving big-data applications’ performance in datacenters with imbalanced networks </b>
 <br/> 
 E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC ’18 - <a target="_blank" href="papers/d3n_poster.pdf">[Poster]</a> </i>
