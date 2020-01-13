@@ -62,7 +62,8 @@ E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambas
 <li>
 <b>D3N: A multi-level cache for improving big-data applications’ performance in datacenters with imbalanced networks </b>
 <br/> 
-E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC 2018<a target="_blank" href="papers/d3n_poster.pdf">[Poster]</a> </i>
+E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC 2018 </i>
+<a target="_blank" href="papers/d3n_poster.pdf">[Poster]</a> 
 </li>
 <br />
 
