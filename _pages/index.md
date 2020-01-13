@@ -53,7 +53,7 @@ which may improve the performance of redundancy solutions.</li>
 <li>
 <b>D3N: A multi-layer cache for the rest of us </b>
 <br/> 
-E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA 2019</i>
+E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA 2019 </i>
 <a target="_blank" href="papers/ekaynar_bigdata19.pdf">[PDF]</a>
 </li>
 <br />
