@@ -19,19 +19,21 @@ My research interests lie broadly in the fields of <b>storage systems</b>, <b>cl
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 
-<h4>D3N: A multi-layer cache for improving big-data applications performance</h4>
+<h4>Hybrid Cloud Storage</h4>
 <ul>
-  <li>D3N is a throughput-oriented multi-layer caching architecture that mitigates network imbalances
-by caching data on the access side of each layer of a hierarchical network topology. The prototype
-of D3N, which incorporates a two-layer cache has been implemented as a modification to Red Hat
-Ceph Storages RADOS Gateway in the Massachusetts Open Cloud datacenter. To fully utilize
-bandwidth within each layer under dynamic conditions, D3N provides an algorithm that adaptively
-adjusts cache sizes based on observed workload patterns and congestion. D3N is highly-performant
-and significantly improves big-data jobs performance.</li>
-   <li><a target="_blank" href="https://www.bu.edu/rhcollab/projects/d3n/"> Project Page</a> </li>
+The values offered by public cloud services are clear for analytic workloads.  Specialized hardware such as GPUs for doing AI/ML may make more sense to effectively lease with Opex rather than invest Capex on infrastructure that is not continually utilized.  However, it may not make sense to build large data sets inside public clouds due both to the cost multiple compared to building out and maintaining private infrastructure and the lock-in nature of using public cloud services.
+These drivers then lead toward a hybrid architecture where large data sets are built and maintained in private clouds, but compute/analytic clusters are spun up in public clouds to the actual analytics on these data sets.  
+<br/>
+<br/>
+Maintaining a hybrid architecture as described introduces challenges with latency and bandwidth to the public cloud compute cluster from the private data lake.  In this project, we design and implement a new hybrid cloud caching architecture to maximize throughput of these leased analytics clusters and avoid re-reading the same data from the external private data lake. Our solution enables users of Kubernetes clusters to easily access any S3 compatible data lake. 
+<br/>
+<br/>
+Check out hybrid cloud caching code on <a target="_blank" href="https://github.com/ekaynar/ceph-master">Github</a> for updates and new functionalities.
+
+<!--   <li><a target="_blank" href="https://www.bu.edu/rhcollab/projects/d3n/"> Project Page</a> </li>
+-->
+
 </ul>
-
-
 <h4>Erasure Coding for Performance</h4>
 <ul>
    <li>In this project, we provide a detailed performance comparison of replication and erasure coding in
@@ -44,7 +46,23 @@ which may improve the performance of redundancy solutions.</li>
 </ul>
 </div>
 
-
+### Past Projects
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+<h5>D3N: Caching for datacenters and datalakes</h5>
+<ul>
+D3N is a multi layer caching extension to storage system itself as a solution to network constrained datacenters. It is essentially designed to accelerate big data analytic workloads with strong locality traits and a limited network connectivity between compute clusters and data storage. The prototype of D3N has been implemented as a modification to Ceph Storages RADOS Gateway which is currently being integrated into the standard Ceph distribution (“upstreamed”) by Red Hat engineers.
+<br/>
+<br/>
+To learn more about the D3N project, check out <a target="_blank" href="https://www.bu.edu/rhcollab/projects/d3n/">our website</a>.
+Download and install D3N for your Ceph object store now. Check out <a target="_blank" href="https://github.com/ekaynar/ceph/tree/rgw_datacache/">Github Repo</a> for updates and new functionalities.
+<br/>
+<br/>
+<a target="_blank" href="https://www.bu.edu/rhcollab/projects/d3n/">[Project Page]</a>
+<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9006396">[Paper]</a>
+<a target="_blank" href="https://github.com/ekaynar/ceph/tree/rgw_datacache/">[Github]</a>
+<br/>
+</ul>
+</div>
 
 ### Publications
 
