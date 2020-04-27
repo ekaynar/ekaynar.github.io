@@ -72,7 +72,7 @@ Download and install D3N for your Ceph object store now. Check out <a target="_b
 <b>D3N: A multi-layer cache for the rest of us </b>
 <br/> 
 E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA 2019 </i>
-<a target="_blank" href="papers/ekaynar_bigdata19.pdf">[PDF]</a>
+<a target="_blank" href="papers/ekaynar_bigdata19.pdf">[Paper]</a>
 </li>
 <br />
 
@@ -90,20 +90,20 @@ E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasi
 <b>M2: Malleable Metal as a Service </b><br />
 Apoorve Mohan, Ata Turk, Ravi S Gudimetla, Sahil Tikale, Jason Hennesey, E. Ugur Kaynar,
 Gene Cooperman, Peter Desnoyers, Orran Krieger, <i>    IEEE IC2E 2018 </i>
-<a target="_blank" href="papers/m2.pdf">[PDF]</a>
+<a target="_blank" href="papers/m2.pdf">[Paper]</a>
 </li>
 <br />
 
 <li><b>An Experiment on Bare-Metal BigData Provisioning</b> <br />
 Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, Peter Desnoyers, Orran Krieger, <i>USENIX HotCloud 2016</i>
-<a target="_blank" href="papers/hotcloud16.pdf">[PDF]</a>
+<a target="_blank" href="papers/hotcloud16.pdf">[Paper]</a>
 </li>
 <br />
 
 
    <li><b> HIL: Designing an Exokernel for the Data Center </b> <br />
    Jason Hennessey, Sahil Tikale, Ata Turk, Emine Ugur Kaynar, Chris Hill, Peter Desnoyers, Orran Krieger, <i>SoCC 2016</i> 
-   <a target="_blank" href="papers/socc16.pdf">[PDF]</a>
+   <a target="_blank" href="papers/socc16.pdf">[Paper]</a>
    </li>
 <br />
 
@@ -111,7 +111,7 @@ Ata Turk, Ravi S. Gudimetla, Emine Ugur Kaynar, Jason Hennessey, Sahil Tikale, P
     Yaohui Hu, Sanket Panhale, TIanlin Li, Emine Ugur Kaynar, Danny Chan, Umesh Deshpande, Ping Yang, Kartik Gopalan
 
    <i> IEEE CLOUD 2015</i>
-  <a target="_blank" href="papers/cloud15.pdf">[PDF]</a>
+  <a target="_blank" href="papers/cloud15.pdf">[Paper]</a>
 
    </li>
 </ul>
