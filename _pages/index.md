@@ -69,6 +69,14 @@ Download and install D3N for your Ceph object store now. Check out <a target="_b
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <ul>
 <li>
+<b>A Community Cache with Complete Information </b>
+<br/>
+Mania Abdi, Amin Mosayyebzadeh, Mohammad Hossein Hajkazemi, Emine Ugur Kaynar, Ata Turk, Larry Rudolph, Orran Krieger, Peter Desnoyers <i>USENIX FAST 2021 </i>
+<a target="_blank" href="papers/ekaynar_bigdata19.pdf">[Paper]</a>
+</li>
+<br />
+
+<li>
 <b>D3N: A multi-layer cache for the rest of us </b>
 <br/> 
 E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA 2019 </i>
