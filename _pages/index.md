@@ -7,7 +7,7 @@ narrow: true
 {% include components/intro.md %}
 
 ### Research Interests
-My research interests lie broadly in the fields of <b>storage systems</b>, <b>cloud computing</b> and <b>big data analytics</b>. Currently, my research is focused on storage-related topics including <i><b>caching systems</b></i>, <i><b>erasure coding</b></i> and <i><b>distributed storage systems</b></i>.
+My research interests lie broadly in the fields of <b>storage systems</b> and <b>cloud computing</b>. Currently, my research is focused on storage-related topics including <i><b>object storage caching</b></i>, <i><b>erasure coding</b></i> and <i><b>distributed storage systems</b></i>.
 
 <!--Currently, I am working on designing and building cache architectures for object storage systems in datacenters, and exploring the performance characteristic of erasure-coded storage systems.
 -->
@@ -68,18 +68,39 @@ Download and install D3N for your Ceph object store now. Check out <a target="_b
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <ul>
+
+<li>
+<b>Cooperative Caching For Object Storage </b>
+<br/>
+Emine Ugur Kaynar
+<i>Ph.D. Dissertation</i>
+<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3492321.3524271">[Paper]</a>
+</li>
+<br />
+
+
+
+<li>
+<b>Beating the I/O bottleneck: a case for log-structured virtual disks</b>
+<br/>
+Mohammad Hossein Hajkazemi, Vojtech Aschenbrenner, Mania Abdi, Emine Ugur Kaynar, Amin Mosayyebzadeh, Orran Krieger, Peter Desnoyers, <i>EUROSYS 2022 </i>
+<a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3492321.3524271">[Paper]</a>
+</li>
+<br />
+
+
 <li>
 <b>A Community Cache with Complete Information </b>
 <br/>
-Mania Abdi, Amin Mosayyebzadeh, Mohammad Hossein Hajkazemi, Emine Ugur Kaynar, Ata Turk, Larry Rudolph, Orran Krieger, Peter Desnoyers <i>USENIX FAST 2021 </i>
-<a target="_blank" href="papers/ekaynar_bigdata19.pdf">[Paper]</a>
+Mania Abdi, Amin Mosayyebzadeh, Mohammad Hossein Hajkazemi, Emine Ugur Kaynar, Ata Turk, Larry Rudolph, Orran Krieger, Peter Desnoyers, <i>USENIX FAST 2021</i>
+<a target="_blank" href="https://www.usenix.org/conference/fast21/presentation/abdi">[Paper]</a>
 </li>
 <br />
 
 <li>
 <b>D3N: A multi-layer cache for the rest of us </b>
 <br/> 
-E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA 2019 </i>
+Emine Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambasivan, Larry Rudolph, Peter Desnoyers, Orran Krieger <i>IEEE BIGDATA 2019 </i>
 <a target="_blank" href="papers/ekaynar_bigdata19.pdf">[Paper]</a>
 </li>
 <br />
@@ -88,7 +109,7 @@ E. Ugur Kaynar, Mania Abdi, Mohammad Hossein Hajkazemi, Ata Turk, Raja R. Sambas
 <li>
 <b>D3N: A multi-level cache for improving big-data applications’ performance in datacenters with imbalanced networks </b>
 <br/> 
-E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC 2018 </i>
+Emine Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasivan, Larry Rudolph, David Cohen, Peter Desnoyers, Orran Krieger, <i>USENIX ATC 2018 </i>
 <a target="_blank" href="papers/d3n_poster.pdf">[Poster]</a> 
 </li>
 <br />
@@ -96,7 +117,7 @@ E. Ugur Kaynar, Mohammad Hossein Hajkazemi, Mania Abdi, Ata Turk, Raja R Sambasi
 
 <li>
 <b>M2: Malleable Metal as a Service </b><br />
-Apoorve Mohan, Ata Turk, Ravi S Gudimetla, Sahil Tikale, Jason Hennesey, E. Ugur Kaynar,
+Apoorve Mohan, Ata Turk, Ravi S Gudimetla, Sahil Tikale, Jason Hennesey, Emine Ugur Kaynar,
 Gene Cooperman, Peter Desnoyers, Orran Krieger, <i>    IEEE IC2E 2018 </i>
 <a target="_blank" href="papers/m2.pdf">[Paper]</a>
 </li>
