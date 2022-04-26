@@ -189,9 +189,9 @@
 
 <!--more-->
 
-<p>Inline code is done using backticks to create <code class="highlighter-rouge">something like this</code>, which is handy for talking about a specific <code class="highlighter-rouge">variable</code> or a <code class="highlighter-rouge">shortExpression++</code>.</p>
+<p>Inline code is done using backticks to create <code class="language-plaintext highlighter-rouge">something like this</code>, which is handy for talking about a specific <code class="language-plaintext highlighter-rouge">variable</code> or a <code class="language-plaintext highlighter-rouge">shortExpression++</code>.</p>
 
-<p>Code blocks are wrapped in the <code class="highlighter-rouge">highlight</code> liquid tag together with a keyword to define the language, like this:</p>
+<p>Code blocks are wrapped in the <code class="language-plaintext highlighter-rouge">highlight</code> liquid tag together with a keyword to define the language, like this:</p>
 
 <figure class="highlight"><pre><code class="language-liquid" data-lang="liquid"><span class="p">{%</span><span class="w"> </span><span class="nt">highlight</span><span class="w"> </span>javascript<span class="w"> </span><span class="p">%}</span>
     ...JS here...
@@ -230,19 +230,19 @@
    <span class="n">empCount</span> <span class="o">=</span> <span class="mi">0</span>
 
    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">name</span><span class="p">,</span> <span class="n">salary</span><span class="p">):</span>
-      <span class="bp">self</span><span class="o">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
-      <span class="bp">self</span><span class="o">.</span><span class="n">salary</span> <span class="o">=</span> <span class="n">salary</span>
-      <span class="n">Employee</span><span class="o">.</span><span class="n">empCount</span> <span class="o">+=</span> <span class="mi">1</span>
+      <span class="bp">self</span><span class="p">.</span><span class="n">name</span> <span class="o">=</span> <span class="n">name</span>
+      <span class="bp">self</span><span class="p">.</span><span class="n">salary</span> <span class="o">=</span> <span class="n">salary</span>
+      <span class="n">Employee</span><span class="p">.</span><span class="n">empCount</span> <span class="o">+=</span> <span class="mi">1</span>
    
    <span class="k">def</span> <span class="nf">displayCount</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-     <span class="k">print</span> <span class="s">"Total Employee </span><span class="si">%</span><span class="s">d"</span> <span class="o">%</span> <span class="n">Employee</span><span class="o">.</span><span class="n">empCount</span>
+     <span class="k">print</span> <span class="s">"Total Employee %d"</span> <span class="o">%</span> <span class="n">Employee</span><span class="p">.</span><span class="n">empCount</span>
 
    <span class="k">def</span> <span class="nf">displayEmployee</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-      <span class="k">print</span> <span class="s">"Name : "</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">name</span><span class="p">,</span>  <span class="s">", Salary: "</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">salary</span></code></pre></figure>
+      <span class="k">print</span> <span class="s">"Name : "</span><span class="p">,</span> <span class="bp">self</span><span class="p">.</span><span class="n">name</span><span class="p">,</span>  <span class="s">", Salary: "</span><span class="p">,</span> <span class="bp">self</span><span class="p">.</span><span class="n">salary</span></code></pre></figure>
 
 <h2 id="supported-languages">Supported Languages</h2>
 
-<p>The highlighting is done with Rouge and at time of writing [their website] says they support 132 languages. I’m not 100% sure if all those are available in the version bundled within Jekyll. If you have successfully installed this theme, then you can run <code class="highlighter-rouge">rougify list</code> from the Terminal and you should get a list of supported languages. Or check out <a href="https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers">this wiki page</a>.</p>
+<p>The highlighting is done with Rouge and at time of writing [their website] says they support 132 languages. I’m not 100% sure if all those are available in the version bundled within Jekyll. If you have successfully installed this theme, then you can run <code class="language-plaintext highlighter-rouge">rougify list</code> from the Terminal and you should get a list of supported languages. Or check out <a href="https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers">this wiki page</a>.</p>
 
 
 
