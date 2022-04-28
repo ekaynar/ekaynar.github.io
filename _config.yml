@@ -7,7 +7,7 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            emine ugur kaynar  # Site title
+title:            Emine Ugur Kaynar  # Site title
 name:             Emine Ugur Kaynar              # Your name
 avatar:           /theme/img/profile193.png   # Path to an avatar image
 
@@ -15,19 +15,18 @@ avatar:           /theme/img/profile193.png   # Path to an avatar image
 # site under a subdir, like for this GitHub Pages deployment as a project site.
 baseurl: ""
 
+
 # Add a directory to hold misc pages, just to keep the root directory clean.
-include: ["_pages", "_portfolio"]
+include: ["_pages"]
 
 # Turn the projects into a collection.
-collections:
-  projects:
-    output: true
-    title: Projects
-    permalink: /:collection/:name.html
-  portfolio:
-    output: true
-    title: portfolio
-    permalink: /:collection/:name.html
+#collections:
+#  projects:
+#    output: true
+#    title: Projects
+#    permalink: /:collection/:name.html
+
+
 
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the

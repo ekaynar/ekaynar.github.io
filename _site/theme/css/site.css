@@ -1,7 +1,21 @@
 .profile-image {
-    border: 5px solid rgba(0, 0, 0, 0.2);
+    border: 3px solid rgba(0, 0, 0, 0.2);
 }
 
+body{
+ font-size: 0.985rem;
+ font-weight: 240;
+}
+a{
+ font-size: 0.955rem;
+ font-weight: 260;
+}
+b{
+ font-weight: 350;
+}
+h4, h3, .h3 {
+    font-weight: 400;
+}
 .site-container {
     padding-top: 80px;
 }
@@ -30,7 +44,6 @@
 
 .navbar-toggler {
     font-family: Helvetica;
-
     background-color: rgba(255,255,255,0.1);
     background-color: black;
 }
@@ -52,4 +65,13 @@ h2[id]::before {
     margin-top: -80px;
 }
 
+.navbar {
+  padding: 0.5rem 10rem;
+}
 
+.nav-item{
+    color: #ffff;
+    font-family: Helvetica;
+    font-weight: 400 !important;
+    font-size: 1.5em;
+}
