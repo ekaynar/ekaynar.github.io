@@ -8,9 +8,6 @@ I am a Ph.D. candidate in the Department of Computer Science at Boston Universit
 <br>
 I'm a member of <a target="_blank" href="http://www.bu.edu/cs/research/systems/"> the Systems Research Group</a>, and associated with <a target="_blank" href="https://massopen.cloud/">Mass Open Cloud</a> and <a target="_blank" href="https://research.redhat.com/">Red Hat Research.</a>
 
-<!--{% include components/intro.md %}-->
-
-<!--### Research Interests-->
 My research interests lie broadly in the fields of <b>storage systems</b> and <b>cloud computing</b>. 
 <br>
 Currently, my research is focused on storage-related topics including <b>object storage caching</b>, <b>erasure coding</b> and <b>distributed storage systems</b>.
