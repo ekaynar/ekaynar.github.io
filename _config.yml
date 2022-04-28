@@ -27,7 +27,6 @@ include: ["_pages"]
 #    permalink: /:collection/:name.html
 
 
-
 defaults:
 # Turn the profile sidebar on for all pages by default, except for the
 # collections, where it is off and replaced by useful things on the sidebar.
@@ -39,6 +38,7 @@ defaults:
       path: ""
     values:
       show_profile: true
+#      show_profile_skills: true
   -
     scope:
       path: "_posts"

@@ -16,6 +16,10 @@
     {% include components/all-skills.html %}
 {% endif %}
 
+{% if page.show_profile_skills %}
+    {% include components/all-profile-skills.html %}
+{% endif %}
+
 {% if page.path contains '_projects' %}
     {% include components/project-meta.html %}
 {% endif %}
