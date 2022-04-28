@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 # Config for your profile.
 title:            Emine Ugur Kaynar  # Site title
-name:             Emine Ugur Kaynar              # Your name
+name:             Emine Ugur Kaynar            # Your name
 avatar:           /theme/img/profile193.png   # Path to an avatar image
 
 # The theme uses the baseurl throughout, which is useful for running the entire

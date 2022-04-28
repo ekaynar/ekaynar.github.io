@@ -18,6 +18,30 @@ Currently, my research is focused on storage-related topics including <b>object 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 </div>
 
+### Education
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+<ul>
+<li>
+<b>
+Ph.D. in Computer Science</b> - Boston University, May 2022 <br/>
+<ul>
+<li> Dissertation: Cooperative Caching for Object Storage (Advisor: Orran Krieger)</li>
+</ul>
+</li>
+
+<li>
+<b>M.Sc. in Computer Science</b> - SUNY at Binghamton,  August 2013 <br/>
+<ul>
+<li>Thesis: Impact of Encryption on Live Virtual Machine Migration (Advisor: Ping Yang) </li>
+</ul>
+</li>
+
+<li>
+<b>B.Sc. in Information Systems Engineering</b> - Bogazici University/SUNY at Binghamton,  May 2011 <br/>
+</li>
+</ul>
+
+</div>
 ### Selected Research Projects
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
@@ -40,7 +64,7 @@ D3N has been <b>upstreamed</b> into the <b>Ceph</b> code base by <i>Red Hat</i> 
 <a target="_blank" href="https://github.com/ceph/ceph/pull/36266">[Github]</a>
 <a target="_blank" href="https://massopen.cloud/research-and-development/cloud-research/d3n/">[Project Page]</a>
 <a target="_blank" href="https://research.redhat.com/blog/research_project/d3n-multilayer-cache/">[Red Hat Research D3N Page]</a>
-<a target="_blank" href="https://https://research.redhat.com/wp-content/uploads/2019/05/RRQ-Vol1-2.pdf">[Article]</a>
+<a target="_blank" href="https://research.redhat.com/wp-content/uploads/2019/05/RRQ-Vol1-2.pdf">[Article]</a>
 <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9006396">[Paper]</a>
 </ul>
 </div>
