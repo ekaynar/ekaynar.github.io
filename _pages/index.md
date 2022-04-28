@@ -1,7 +1,7 @@
 ---
 title: 
 layout: defaults/page
-permalink: home
+permalink: index.html 
 narrow: true
 ---
 I am a Ph.D. candidate in the Department of Computer Science at Boston University working with <a href="http://okrieg.github.io/">Prof. Orran Krieger</a>, <a href="http://people.csail.mit.edu/rudolph/">Prof. Larry Rudolph</a> and <a href="http://www.ccs.neu.edu/home/pjd/index.html"> Prof. Peter Desnoyers</a>. 
