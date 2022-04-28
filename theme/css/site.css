@@ -4,18 +4,22 @@
 
 body{
  font-size: 0.985rem;
- font-weight: 240;
+ font-weight: 300;
 }
 a{
  font-size: 0.955rem;
- font-weight: 260;
+ font-weight: 300;
 }
-b{
- font-weight: 350;
+
+b, strong{
+ color: black;
+ font-weight: 500;
 }
-h4, h3, .h3 {
+
+h6, h5, h4, h3, .h3 {
     font-weight: 400;
 }
+
 .site-container {
     padding-top: 80px;
 }

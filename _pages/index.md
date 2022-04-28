@@ -13,7 +13,7 @@ I'm a member of <a target="_blank" href="http://www.bu.edu/cs/research/systems/"
 <!--### Research Interests-->
 My research interests lie broadly in the fields of <b>storage systems</b> and <b>cloud computing</b>. 
 <br>
-Currently, my research is focused on storage-related topics including <i><b>object storage caching</b></i>, <i><b>erasure coding</b></i> and <i><b>distributed storage systems</b></i>.
+Currently, my research is focused on storage-related topics including <b>object storage caching</b>, <b>erasure coding</b> and <b>distributed storage systems</b>.
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 </div>
@@ -24,9 +24,9 @@ Currently, my research is focused on storage-related topics including <i><b>obje
 
 <h5>D4N: <u>D</u>irectory Based D3N</h5>
 <ul>
-D4N is a directory-based cooperative cache that provides a distributed directory that maintains a global state, re-uses the existing data lake (Ceph) software for implementing a write tier and exploits the semantics of immutable objects to move aged objects to the shared data lake.
+D4N is a directory-based cooperative cache that provides a distributed directory for a global state, re-uses the existing data lake (Ceph) software for implementing a write tier and exploits the semantics of immutable objects to move aged objects to the shared data lake.
 <br/>
-We are still in the process of “upstreaming” the D4N and convincing the Ceph upstream community.
+We are still in the process of upstreaming the D4N and convincing the Ceph upstream community.
 <br/>
 <a target="_blank" href="https://github.com/ekaynar/ceph-master/tree/datacache">[Github]</a>
 <a target="_blank" href="https://research.redhat.com/blog/research_project/hybrid-cloud-cache/">[Red Hat Research D4N Page]</a>
@@ -63,7 +63,7 @@ which may improve the performance of redundancy solutions.</li>
 
 
 <li>
-<b>Universal Data Center Cache</b>, <i>Submitted</i>
+<b>Universal Data Center Cache</b>, <i>Submitted (2022)</i>
 <br/>
 <b>Emine Ugur Kaynar</b>, Amin Mosayyebzadeh, Mania Abdi, Matt Benjamin, Larry Rudolph, Peter Desnoyers, Orran Krieger 
 </li>
