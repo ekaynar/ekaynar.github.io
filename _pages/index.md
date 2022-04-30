@@ -9,7 +9,7 @@ skills:
   - User Interface Design
   - Project Management
 ---
-I am a Ph.D. candidate in the Department of Computer Science at Boston University working with <a href="http://okrieg.github.io/">Prof. Orran Krieger</a>, <a href="http://people.csail.mit.edu/rudolph/">Prof. Larry Rudolph</a> and <a href="http://www.ccs.neu.edu/home/pjd/index.html"> Prof. Peter Desnoyers</a>. 
+I have just receieved my Ph.D. (May 2022) from the Department of Computer Science at Boston University. I am working with <a href="http://okrieg.github.io/">Prof. Orran Krieger</a>, <a href="http://people.csail.mit.edu/rudolph/">Prof. Larry Rudolph</a> and <a href="http://www.ccs.neu.edu/home/pjd/index.html"> Prof. Peter Desnoyers</a>. 
 <br>
 I'm a member of <a target="_blank" href="http://www.bu.edu/cs/research/systems/"> the Systems Research Group</a>, and associated with <a target="_blank" href="https://massopen.cloud/">Mass Open Cloud</a> and <a target="_blank" href="https://research.redhat.com/">Red Hat Research.</a>
 
