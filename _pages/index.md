@@ -64,7 +64,7 @@ We are still in the process of upstreaming the D4N and convincing the Ceph upstr
 is a multi layer cooperative caching extension to storage system itself as a solution to network constrained data centers. 
 D3N has been <b>upstreamed</b> into the <b>Ceph</b> code base by <i>Red Hat</i> and is available as an experimental feature in Ceph today.
 <br/>
-<a target="_blank" href="https://docs.ceph.com/en/quincy/radosgw/d3n_datacache/>[Documentation]</a>
+<a target="_blank" href="https://docs.ceph.com/en/quincy/radosgw/d3n_datacache/">[Ceph Documentation]</a>
 <a target="_blank" href="https://massopen.cloud/research-and-development/cloud-research/d3n/">[Project Page]</a>
 <a target="_blank" href="https://research.redhat.com/blog/research_project/d3n-multilayer-cache/">[Red Hat Research D3N Page]</a>
 <a target="_blank" href="https://research.redhat.com/wp-content/uploads/2019/05/RRQ-Vol1-2.pdf">[Article]</a>
