@@ -44,6 +44,14 @@ Ph.D. in Computer Science</b> - Boston University, May 2022 <br/>
 </ul>
 
 </div>
+
+### Open Source Software
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+D3N Data Cache For Ceph Object Storage, Merged into the Ceph by Red Hat, 2021. 
+<a target="_blank" href="https://docs.ceph.com/en/quincy/radosgw/d3n_datacache/">[Ceph Documentation]</a>
+
+</div>
+
 ### Selected Research Projects
 
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
