@@ -80,7 +80,17 @@ D3N enables data sharing across analytic clusters (e.g., Spark) in a data center
 <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9006396">[Paper]</a>
 </li>
 </ul>
+
+<ul>
+<li><b>Bare-Metal Imaging (BMI) Service</b>
+a generic bare-metal provisioning solution for rapid deployment of bare-metal nodes on demand, and brings attractive image management capa- bilities (e.g., fast snapshotting, cloning, rapid provisioning etc.) of virtualized solutions to bare-metal systems.
+<br/>
+<a target="_blank" href="https://github.com/CCI-MOC/m2">[Project Page]</a>
+</li>
+</ul>
+
 </div>
+
 
 <!--<h4>Erasure Coding for Performance</h4>
 <ul>
