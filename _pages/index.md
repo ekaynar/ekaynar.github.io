@@ -70,7 +70,8 @@ We are still in the process of upstreaming the D4N and convincing the Ceph upstr
 <ul>
 <li><b>D3N (<u>D</u>atacenter-scale <u>D</u>ata <u>D</u>elivery <u>N</u>etwork)</b>
 is a multi layer cooperative caching extension to storage system itself as a solution to network constrained data centers. 
-D3N has been <b>upstreamed</b> into the <b>Ceph</b> code base by <i>Red Hat</i> and is available as an experimental feature in Ceph today.
+D3N enables data sharing across analytic clusters (e.g., Spark) in a data center, and dynamically adapts to changes in access patterns.
+<!--D3N has been <b>upstreamed</b> into the <b>Ceph</b> code base by <i>Red Hat</i> and is available as an experimental feature in Ceph today.-->
 <br/>
 <a target="_blank" href="https://docs.ceph.com/en/quincy/radosgw/d3n_datacache/">[Ceph Documentation]</a>
 <a target="_blank" href="https://massopen.cloud/research-and-development/cloud-research/d3n/">[Project Page]</a>
