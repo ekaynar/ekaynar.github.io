@@ -83,7 +83,7 @@ D3N enables data sharing across analytic clusters (e.g., Spark) in a data center
 
 <ul>
 <li><b>Elastic Secure Infrastructure (ESI):</b>
-Involved ESI project which explores how to build a secure bare-metal elastic infrastructure for data centers and efficiently multiplexing bare-metal servers between different tenants. <a target="_blank" href="https://github.com/CCI-MOC/m2">Bare-Metal Imaging (BMI)</a> prototype we developed is a generic bare-metal provi- sioning solution for rapid deployment of bare-metal nodes on demand, and brings attractive image management capabilities (e.g., fast snapshotting, cloning, rapid provisioning etc.) of virtualized solutions to bare-metal systems.
+Involved ESI project which explores how to build a secure bare-metal elastic infrastructure for data centers and efficiently multiplexing bare-metal servers between different tenants. <a target="_blank" href="https://github.com/CCI-MOC/m2">Bare-Metal Imaging (BMI)</a> prototype we developed is a generic bare-metal provisioning solution for rapid deployment of bare-metal nodes on demand, and brings attractive image management capabilities (e.g., fast snapshotting, cloning, rapid provisioning etc.) of virtualized solutions to bare-metal systems.
 
 
 <br/>
