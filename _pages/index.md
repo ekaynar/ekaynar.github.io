@@ -235,27 +235,27 @@ A. Turk, R. S. Gudimetla, <b>E. U. Kaynar</b>, J. Hennessey, S. Tikale, P. Desno
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <ul>
 
-<li> <b> Project Mentoring</b><br/>
+<li> <b>Mentoring</b><br/>
 <i>Department of Computer Science, Boston University</i>
 <ul>
-<li>CS 528/EC 528 Cloud Computing: <b>Accelerating Ceph Cloud Storage with D4N</b>
+<li><b>Accelerating Ceph Cloud Storage with D4N</b>
 <a target="_blank" href="https://github.com/EC528-Project/ceph">[GitHub]</a>,
 team of 4 graduate students
 </li>
 
-<li>CS 6620/EC 528 Cloud Computing: <b>Ceph RGW S3-Select Caching</b>
+<li><b>Ceph RGW S3-Select Caching</b>
 <a target="_blank" href="https://github.com/CS6620-S21/D4N-S3Select-Caching">[GitHub]</a>,
 team of 4 graduate students
 </li>
 
-<li>CS 591/EC 528 Cloud Computing: <b>Ceph RGW Cache Prefetching</b>
+<li><b>Ceph RGW Cache Prefetching</b>
 <a target="_blank" href="https://github.com/bu-528-sp19/Ceph-RGW-Prefetching">[GitHub]</a>,
 team of 3 graduate students
 </li>
 
-<li>CS 591/EC 520 Cloud Computing: <b>Mass Open Cloud Monitoring Platform</b>
+<li><b>Mass Open Cloud Monitoring Platform</b>
 <a target="_blank" href="https://github.com/BU-NU-CLOUD-SP16/MOC-Monitoring">[GitHub]</a>,
-team of 3 undergrad/graduate students
+team of 3 graduate students
 </li>
 </ul>
 </li>
@@ -263,15 +263,15 @@ team of 3 undergrad/graduate students
 <li><b>Teaching Assistant</b><br/>
 <i>Department of Computer Science, Boston University</i>
 <ul>
-<li>CS 591/EC 500 Cloud Computing</li>
-<li>CS 108 Introduction to Application Programming </li>
-<li>CS 111 Introduction to Computer Science </li>
+<li>Cloud Computing</li>
+<li>Introduction to Application Programming </li>
+<li>Introduction to Computer Science </li>
 </ul>
 
 <i>Department of Computer Science, SUNY at Binghamton</i>
 <ul>
-<li>CS 458/CS 558 Introduction to Computer Security</li>
-<li>CS 571 Programming Languages</li>
+<li>Introduction to Computer Security</li>
+<li>Programming Languages</li>
 </ul>
 </li>
 </ul>
