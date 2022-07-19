@@ -210,19 +210,19 @@ A. Turk, R. S. Gudimetla, <b>E. U. Kaynar</b>, J. Hennessey, S. Tikale, P. Desno
 <b> Research Intern </b>, May 2017 to Present<br>
 <b>Projects:</b>
 	<ul>
-	<li> D4N Caching for Ceph Object Storage </li>
-	<li> Impact of node/rack failure and recovery on Ceph Object Storage </li>
+	<li> Hybrid Cloud Cache</li>
+	<li> Upstreaming D3N into Ceph Object Storage</li>
+    <li> Impact of node/rack failure and recovery on Ceph Object Storage </li>
 	<li> Performance analysis of erasure coding and replication for Ceph Object Storage </li>
-	<li> D3N Caching for Ceph Object Storage </li>
 	</ul>
 </li>
 
-<li> <b>Mass Open Cloud</b>, Boston<br>
+<li> <b>Mass Open Cloud (MOC) Alliance</b>, Boston<br>
 <b>System Researcher</b>, May 2015 - Present <br>
 <b>Projects:</b>
 	<ul>
-	<li>MOC Monasca Monitoring Platform</li>
-	<li>The Bare Metal Imaging Service</li>
+    <li>Big Data Platform</li>
+	<li>Monitoring Platform</li>
 	<li>Automated Deployment of Big Data Processing Environment</li>
 	</ul>
 
