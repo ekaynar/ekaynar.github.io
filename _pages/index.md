@@ -208,7 +208,7 @@ A. Turk, R. S. Gudimetla, <b>E. U. Kaynar</b>, J. Hennessey, S. Tikale, P. Desno
 
 <li> <b>Red Hat</b>, Boston<br>
 <b> Research Intern </b>, May 2017 to Present<br>
-<b>Projects:</b>
+<!--<b>Projects:</b>-->
 	<ul>
 	<li> Hybrid Cloud Cache</li>
 	<li> Upstreaming D3N into Ceph Object Storage</li>
@@ -219,11 +219,11 @@ A. Turk, R. S. Gudimetla, <b>E. U. Kaynar</b>, J. Hennessey, S. Tikale, P. Desno
 
 <li> <b>Mass Open Cloud (MOC) Alliance</b>, Boston<br>
 <b>System Researcher</b>, May 2015 - Present <br>
-<b>Projects:</b>
+<!--<b>Projects:</b>-->
 	<ul>
     <li>Big Data Platform</li>
 	<li>Monitoring Platform</li>
-	<li>Automated Deployment of Big Data Processing Environment</li>
+<!--	<li>Automated Deployment of Big Data Processing Environment</li>-->
 	</ul>
 
 </li>
