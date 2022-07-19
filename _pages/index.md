@@ -202,7 +202,7 @@ A. Turk, R. S. Gudimetla, <b>E. U. Kaynar</b>, J. Hennessey, S. Tikale, P. Desno
 </ul>
 </div>
 
-### Research and Engineering Experience
+### Experience
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <ul>
 
@@ -231,7 +231,7 @@ A. Turk, R. S. Gudimetla, <b>E. U. Kaynar</b>, J. Hennessey, S. Tikale, P. Desno
 </ul>
 </div>
 
-### Other Experience
+### Teaching and Mentoring Experience
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 <ul>
 
