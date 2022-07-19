@@ -154,7 +154,7 @@ M. Abdi, A. Mosayyebzadeh, M. H. Hajkazemi, <b>E. U. Kaynar</b>, A. Turk, L. Rud
 </li>
 <br />
 
-
+<!--
 <li>
 <b>D3N: A multi-level cache for improving big-data applications’ performance in datacenters with imbalanced networks</b>, <i>USENIX ATC 2018 </i>
 <br/> 
@@ -162,7 +162,7 @@ M. Abdi, A. Mosayyebzadeh, M. H. Hajkazemi, <b>E. U. Kaynar</b>, A. Turk, L. Rud
 <a target="_blank" href="publications/d3n_poster.pdf">[Poster]</a> 
 </li>
 <br />
-
+-->
 
 <li>
 <b>M2: Malleable Metal as a Service</b>, <i>IEEE IC2E 2018</i>
