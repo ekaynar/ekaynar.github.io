@@ -14,9 +14,9 @@ I have just receieved my Ph.D. (May 2022) from the Department of Computer Scienc
 I'm a member of <a target="_blank" href="http://www.bu.edu/cs/research/systems/"> the Systems Research Group</a>, and associated with <a target="_blank" href="https://massopen.cloud/">Mass Open Cloud</a> and <a target="_blank" href="https://research.redhat.com/">Red Hat Research.</a>
 
 <b>Interest:</b> Computer System Design for Cloud Computing, Distributed Systems, Cloud Storage Systems, Performance Analysis and Tuning
-</br>
+<br>
 <b>Skills:</b> Ceph, OpenStack, Alluxio, Hadoop, Spark, C++, Bash, Python
-</br>
+<br>
 
 I am passionate about building large distributed systems and contributing to open source projects. I worked on the design/development of scalable cloud-based platforms and improving the performance and efficiency of distributed frameworks. 
 
