@@ -13,10 +13,18 @@ I have just receieved my Ph.D. (May 2022) from the Department of Computer Scienc
 <br>
 I'm a member of <a target="_blank" href="http://www.bu.edu/cs/research/systems/"> the Systems Research Group</a>, and associated with <a target="_blank" href="https://massopen.cloud/">Mass Open Cloud</a> and <a target="_blank" href="https://research.redhat.com/">Red Hat Research.</a>
 
-My research interests lie broadly in the fields of  <b>cloud computing</b>, <b>distributed systems</b> and <b>cloud storage systems</b>. 
+<b>Interest:</b> Computer System Design for Cloud Computing, Distributed Systems, Cloud Storage Systems, Performance Analysis and Tuning
+</br>
+<b>Skills:</b> Ceph, OpenStack, Alluxio, Hadoop, Spark, C++, Bash, Python
+</br>
+
+I am passionate about building large distributed systems and contributing to open source projects. I worked on the design/development of scalable cloud-based platforms and improving the performance and efficiency of distributed frameworks. 
+
+
+<!--My research interests lie broadly in the fields of  <b>cloud computing</b>, <b>distributed systems</b> and <b>cloud storage systems</b>. 
 <br>
 Currently, my research is focused on storage-related topics including <b>caching systems</b>, <b>object storage</b>, <b>erasure coding</b> and <b>distributed storage systems</b>.
-
+-->
 <div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
 </div>
 
