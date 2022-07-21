@@ -18,7 +18,9 @@ I'm a member of <a target="_blank" href="http://www.bu.edu/cs/research/systems/"
 <b>Skills:</b> Ceph, OpenStack, Alluxio, Hadoop, Spark, C++, Bash, Python
 <br>
 
-I am passionate about building large distributed systems and contributing to open source projects. I worked on the design/development of scalable cloud-based platforms and improving the performance and efficiency of distributed frameworks. 
+I am passionate about building large distributed systems and contributing to open source projects.
+My research focuses on building efficient and flexible systems for the growing data demands of modern high-end applications running on existing as well as emerging cloud computing platforms.
+I worked on the design/development of scalable cloud-based platforms and improving the performance and efficiency of distributed frameworks. 
 
 
 <!--My research interests lie broadly in the fields of  <b>cloud computing</b>, <b>distributed systems</b> and <b>cloud storage systems</b>. 
